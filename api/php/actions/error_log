@@ -1,0 +1,159 @@
+[11-Feb-2017 11:56:44 Etc/GMT] PHP Notice:  Undefined variable: resp in /home/vallabh/public_html/foodhub/php/objects/user.php on line 477
+[11-Feb-2017 11:56:44 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vallabh/public_html/foodhub/php/objects/user.php on line 477
+[11-Feb-2017 13:03:38 Etc/GMT] PHP Notice:  Undefined variable: resp in /home/vallabh/public_html/foodhub/php/objects/user.php on line 477
+[11-Feb-2017 13:03:38 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vallabh/public_html/foodhub/php/objects/user.php on line 477
+[13-Mar-2017 16:33:54 Etc/GMT] PHP Notice:  Undefined index: data in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 247
+[13-Mar-2017 16:33:54 Etc/GMT] PHP Notice:  Undefined index: data in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 249
+[13-Mar-2017 16:54:28 Etc/GMT] PHP Fatal error:  Call to undefined method userClass::addJob() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 822
+[13-Mar-2017 16:57:55 Etc/GMT] PHP Parse error:  syntax error, unexpected ''projectNam' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/vallabh/public_html/foodhub/php/objects/user.php on line 317
+[13-Mar-2017 16:58:35 Etc/GMT] PHP Notice:  Undefined variable: response in /home/vallabh/public_html/foodhub/php/objects/user.php on line 822
+[13-Mar-2017 16:58:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vallabh/public_html/foodhub/php/objects/user.php on line 823
+[15-Mar-2017 12:32:12 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/vallabh/public_html/foodhub/php/objects/user.php on line 473
+[15-Mar-2017 12:32:27 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/vallabh/public_html/foodhub/php/objects/user.php on line 473
+[15-Mar-2017 12:33:06 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 12:33:41 Etc/GMT] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 829
+[15-Mar-2017 12:40:20 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 12:40:34 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 12:41:25 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 12:41:35 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 13:02:29 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 13:03:36 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 13:03:59 Etc/GMT] PHP Fatal error:  Call to undefined function generateActivationToken() in /home/vallabh/public_html/foodhub/php/objects/user.php on line 492
+[15-Mar-2017 13:06:08 Etc/GMT] PHP Notice:  Undefined variable: substr in /home/vallabh/public_html/foodhub/php/objects/user.php on line 469
+[15-Mar-2017 13:06:08 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/vallabh/public_html/foodhub/php/objects/user.php on line 469
+[15-Mar-2017 14:23:48 Etc/GMT] PHP Fatal error:  Cannot use try without catch or finally in /home/vallabh/public_html/foodhub/php/objects/user.php on line 372
+[15-Mar-2017 14:24:00 Etc/GMT] PHP Fatal error:  Cannot use try without catch or finally in /home/vallabh/public_html/foodhub/php/objects/user.php on line 372
+[15-Mar-2017 14:25:54 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 283
+[15-Mar-2017 14:25:54 Etc/GMT] PHP Fatal error:  Call to undefined method userClass::sendWelcomeMail() in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 287
+[15-Mar-2017 14:28:25 Etc/GMT] PHP Fatal error:  Class 'userClass' not found in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 44
+[15-Mar-2017 14:28:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 778
+[15-Mar-2017 14:30:17 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 778
+[15-Mar-2017 15:05:26 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 279
+[15-Mar-2017 15:05:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 283
+[15-Mar-2017 15:05:47 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 279
+[15-Mar-2017 15:05:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 283
+[15-Mar-2017 15:14:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 283
+[15-Mar-2017 17:40:17 Etc/GMT] PHP Notice:  Undefined index: emailId in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 49
+[16-Mar-2017 17:48:15 Etc/GMT] PHP Notice:  Undefined index: recaptcha in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 331
+[18-Mar-2017 16:57:55 Etc/GMT] PHP Notice:  Undefined variable: hashed_password in /home/vallabh/public_html/foodhub/php/objects/user.php on line 164
+[18-Mar-2017 16:57:55 Etc/GMT] PHP Notice:  Undefined variable: email in /home/vallabh/public_html/foodhub/php/objects/user.php on line 168
+[21-Mar-2017 17:36:34 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[21-Mar-2017 17:36:45 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[21-Mar-2017 17:37:05 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[21-Mar-2017 17:37:18 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[21-Mar-2017 17:38:06 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[21-Mar-2017 17:38:18 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[21-Mar-2017 17:38:31 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[23-Mar-2017 13:38:41 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[23-Mar-2017 13:39:54 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[23-Mar-2017 13:40:59 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[26-Mar-2017 05:06:56 Etc/GMT] PHP Notice:  Undefined index: task in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 8
+[26-Mar-2017 05:26:11 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[26-Mar-2017 05:26:27 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[26-Mar-2017 05:27:07 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[26-Mar-2017 05:27:08 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[26-Mar-2017 07:24:29 Etc/GMT] PHP Notice:  Undefined index: task in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 8
+[26-Mar-2017 07:24:37 Etc/GMT] PHP Notice:  Undefined index: task in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 8
+[26-Mar-2017 07:24:46 Etc/GMT] PHP Notice:  Undefined index: task in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 8
+[26-Mar-2017 10:41:10 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[26-Mar-2017 10:41:30 Etc/GMT] PHP Notice:  Undefined index: password in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 78
+[26-Mar-2017 16:32:20 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 139
+[26-Mar-2017 16:32:20 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 139
+[26-Mar-2017 16:32:20 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 139
+[26-Mar-2017 16:32:20 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 139
+[26-Mar-2017 16:32:38 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 139
+[26-Mar-2017 16:34:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/vallabh/public_html/foodhub/php/objects/user.php on line 336
+[28-Mar-2017 06:21:10 Etc/GMT] PHP Notice:  Undefined index: task in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 8
+[28-Mar-2017 06:21:26 Etc/GMT] PHP Notice:  Undefined index: task in /home/vallabh/public_html/foodhub/php/actions/user_actions.php on line 8
+[29-Mar-2017 07:23:32 Etc/GMT] PHP Notice:  Undefined property: userClass::$statusDb in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:23:32 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on null in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:25:54 Etc/GMT] PHP Notice:  Undefined property: userClass::$statusDb in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:25:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on null in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:28:32 Etc/GMT] PHP Notice:  Undefined property: userClass::$foodhub in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:28:32 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on null in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:34:34 Etc/GMT] PHP Notice:  Undefined property: userClass::$foodhub in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:34:34 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on null in /home/vallabh/public_html/foodhub/php/objects/user.php on line 150
+[29-Mar-2017 07:42:03 Etc/GMT] PHP Notice:  Undefined variable: rs in /home/vallabh/public_html/foodhub/php/objects/user.php on line 155
+[29-Mar-2017 07:42:03 Etc/GMT] PHP Fatal error:  Call to a member function fetchAll() on null in /home/vallabh/public_html/foodhub/php/objects/user.php on line 155
+[29-Mar-2017 07:51:39 Etc/GMT] PHP Notice:  Use of undefined constant data - assumed 'data' in /home/vallabh/public_html/foodhub/php/objects/user.php on line 157
+[29-Mar-2017 07:51:39 Etc/GMT] PHP Notice:  Use of undefined constant data - assumed 'data' in /home/vallabh/public_html/foodhub/php/objects/user.php on line 157
+[10-Apr-2017 15:34:33 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:34:33 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:34:33 Etc/GMT] PHP Warning:  include(): Failed opening 'C:/wamp/www/foodhub_web/php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:34:33 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:34:33 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:34:33 Etc/GMT] PHP Warning:  include(): Failed opening 'C:/wamp/www/foodhub_web/php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:34:33 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'C:/wamp/www/foodhub_web/php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
+[10-Apr-2017 15:34:34 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:34:34 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:34:34 Etc/GMT] PHP Warning:  include(): Failed opening 'C:/wamp/www/foodhub_web/php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:34:34 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:34:34 Etc/GMT] PHP Warning:  include(C:/wamp/www/foodhub_web/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:34:34 Etc/GMT] PHP Warning:  include(): Failed opening 'C:/wamp/www/foodhub_web/php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:34:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'C:/wamp/www/foodhub_web/php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
+[10-Apr-2017 15:37:26 Etc/GMT] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:37:26 Etc/GMT] PHP Warning:  include(http://www.vallabh.online/foodhub/api//php/objects/user.php): failed to open stream: no suitable wrapper could be found in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:37:26 Etc/GMT] PHP Warning:  include(): Failed opening 'http://www.vallabh.online/foodhub/api//php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:37:26 Etc/GMT] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:37:26 Etc/GMT] PHP Warning:  include(http://www.vallabh.online/foodhub/api//php/recaptcha_verify.php): failed to open stream: no suitable wrapper could be found in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:37:26 Etc/GMT] PHP Warning:  include(): Failed opening 'http://www.vallabh.online/foodhub/api//php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:37:26 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'http://www.vallabh.online/foodhub/api//php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
+[10-Apr-2017 15:37:27 Etc/GMT] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:37:27 Etc/GMT] PHP Warning:  include(http://www.vallabh.online/foodhub/api//php/objects/user.php): failed to open stream: no suitable wrapper could be found in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:37:27 Etc/GMT] PHP Warning:  include(): Failed opening 'http://www.vallabh.online/foodhub/api//php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:37:27 Etc/GMT] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:37:27 Etc/GMT] PHP Warning:  include(http://www.vallabh.online/foodhub/api//php/recaptcha_verify.php): failed to open stream: no suitable wrapper could be found in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:37:27 Etc/GMT] PHP Warning:  include(): Failed opening 'http://www.vallabh.online/foodhub/api//php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:37:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'http://www.vallabh.online/foodhub/api//php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api//php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api//php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message '/home/vallabh/public_html/foodhub/api//php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api//php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api//php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api//php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message '/home/vallabh/public_html/foodhub/api//php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api/php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api/php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message '/home/vallabh/public_html/foodhub/api/php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/objects/user.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api/php/objects/user.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 31
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(/home/vallabh/public_html/foodhub/api/php/recaptcha_verify.php): failed to open stream: No such file or directory in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Warning:  include(): Failed opening '/home/vallabh/public_html/foodhub/api/php/recaptcha_verify.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 32
+[10-Apr-2017 15:38:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message '/home/vallabh/public_html/foodhub/api/php/objects/dbConnection.php does not exist' in /home/vallabh/public_html/foodhub/api/actions/user_actions.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/vallabh/public_html/foodhub/api/actions/user_actions.php on line 40
